@@ -121,10 +121,10 @@ Once the server is running, you can send POST requests to the `/predict` endpoin
 
 ```bash
 curl -X POST -H "Content-Type: application/json" -d "{\"text\": \"This product is absolutely amazing!\"}" http://127.0.0.1:5000/predict
-'''
+```
 OR 
 
-'''bash
+```bash
 Invoke-RestMethod -Method Post -Uri "http://127.0.0.1:5000/predict" -Headers @{"Content-Type"="application/json"} -Body '{"text": "This product is absolutely amazing!"}' 
 ```
 
