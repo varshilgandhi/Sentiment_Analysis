@@ -1,6 +1,6 @@
 # AI Engineer Assignment - SoluLab - Sentiment Analysis System
 
-## Varshil [Your Last Name - Please replace]
+## Varshil Gandhi
 
 ## 1. Introduction
 
