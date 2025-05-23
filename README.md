@@ -1,7 +1,3 @@
-# AI Engineer Assignment - SoluLab - Sentiment Analysis System
-
-## Varshil Gandhi
-
 ## 1. Introduction
 
 This project implements a custom AI-driven text classification system for sentiment analysis on synthetic customer feedback data. The system preprocesses text, trains a machine learning model (without using pre-trained models like BERT or libraries like Hugging Face), and provides a simple REST API endpoint for inference. The goal is to classify feedback into Positive, Negative, and Neutral categories.
